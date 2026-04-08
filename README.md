@@ -1,3 +1,7 @@
+![Dashboard](Image%20preview.png)
+
+![Result Screen](1000000224.jpg)
+
 Overview:
 Developed a mobile scanning application for internal asset tracking. The app was designed to streamline barcode scanning and reduce manual data entry.
 
